@@ -41,7 +41,7 @@
 }
 
 html {
-  cursor: url("./cat_default.png") 40 45, auto;
+  cursor: url("./Nyan Cat Meme Animated--pointer--SweezyCursors.cur") 40 45, auto;
 }
 
 body {
@@ -101,7 +101,7 @@ a {
   Иначе при наведении на ссылку могут быть крохотные моменты,
   когда курсор сбрасывается к дефолтной "руке"
   */
-  cursor: url("./cat_link.png") 40 45, auto;
+  cursor: url("./Nyan Cat Meme Animated--pointer--SweezyCursors.cur") 40 45, auto;
 }
 
 a:hover {
